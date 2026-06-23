@@ -4,7 +4,7 @@ An AI-powered enterprise call transcript analysis system built for AegisCloud's 
 
 ## What It Does
 
-Transforms 100 raw enterprise call transcripts into actionable intelligence for Product, Sales, Support, and Engineering leadership — automatically.
+Transforms 100 raw enterprise call transcripts into actionable intelligence for Product, Sales, Support, and Engineering leadership automatically.
 
 **Pipeline output from 100 transcripts:**
 - 100 calls classified by type (42 external, 30 support, 28 internal)
