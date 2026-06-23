@@ -1,0 +1,27 @@
+# Environment — API keys must never be committed
+.env
+.env.local
+
+# Auto-generated databases
+transcript_intelligence.db
+chroma_db/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+*.egg-info
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# OS
+.DS_Store
+__MACOSX/
+
+# Dataset — too large for git, share separately
+dataset/
